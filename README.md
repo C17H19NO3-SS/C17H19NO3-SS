@@ -17,11 +17,11 @@
 
 ## 🛠️ Yetenekler & Teknolojiler
 
-* **Diller:** `JavaScript`, `TypeScript`, `Python`, `Java`, `HTML5`, `CSS3`
-* **Frontend:** `React`, `Next.js`, `Vue.js`, `Tailwind CSS`, `Styled Components`
-* **Backend:** `Node.js`, `Express.js`, `Django`, `Flask`, `Spring Boot`
-* **Veritabanları:** `PostgreSQL`, `MongoDB`, `Redis`, `MySQL`
-* **Araçlar & Platformlar:** `Docker`, `Git`, `AWS`, `Vercel`, `Figma`, `Jira`
+* **Diller:** `JavaScript`, `TypeScript`, `Java`, `HTML5`, `CSS`
+* **Frontend:** `React`, `Next.js`, `Tailwind CSS`
+* **Backend:** `Node.js`, `Express.js`
+* **Veritabanları:** `MySQL`
+* **Araçlar & Platformlar:** `Docker`
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
