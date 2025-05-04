@@ -77,24 +77,12 @@
 
 ---
 
-## 🎧 Spotify'da Şu An Dinlediğim
-
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?theme=dark&scan=true" alt="Spotify Dinlenen Şarkı" width="350" />
-</p>
-
----
-
-## ✍️ Son Blog Yazılarım
-
-*Henüz blog yazısı çekilmedi veya Action ayarlanmadı*
 ---
 
 ## 📫 İletişim & Sosyal Medya
 
 <p align="center">
   <a href="https://linkedin.com/in/[LinkedIn Kullanıcı Adınız]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="https://twitter.com/[Twitter Kullanıcı Adınız]" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>&nbsp;
   <a href="mailto:[E-posta Adresiniz]" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
   <a href="[Portfolyo/Web Sitesi Linkiniz]" target="_blank"><img src="https://img.shields.io/badge/Website-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
