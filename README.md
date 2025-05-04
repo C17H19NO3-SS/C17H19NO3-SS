@@ -1,4 +1,4 @@
-# Merhaba 👋, Ben [Adınız Soyadınız]!
+# Merhaba 👋, Ben Vehbi Taha Edis!
 
 <p align="center">
   ![Banner]([Banner Görsel URL'si])
