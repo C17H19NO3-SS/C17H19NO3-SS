@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben Vehbi Taha Edis!
+# 👋 Hello, I'm Vehbi Taha Edis!
 
 <div align="center">
   
@@ -8,7 +8,7 @@
 
 </div>
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
 ```javascript
 const vehbiTaha = {
@@ -21,15 +21,15 @@ const vehbiTaha = {
     currentlyLearning: ["React", "Node.js", "TypeScript"],
     askMeAbout: ["JavaScript", "Web Development", "Frontend", "Backend"],
     
-    funFact: "Kod yazmak benim için sanat gibi! 🎨"
+    funFact: "Coding is like art to me! 🎨"
 };
 ```
 
-Yazılım dünyasında **6 yıldır** aktif olarak yer alıyorum ve bu sürenin büyük bir kısmını **JavaScript ekosistemine** adadım. Hem **backend** hem de **frontend** alanlarında sayısız proje geliştirerek kendimi sürekli yeniliyorum.
+I've been actively involved in the software world for **6 years**, dedicating most of this time to the **JavaScript ecosystem**. I continuously improve myself by developing countless projects in both **backend** and **frontend** areas.
 
 ---
 
-## 🛠️ Teknoloji Yığınım
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Yazılım dünyasında **6 yıldır** aktif olarak yer alıyorum ve bu sürenin 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Araçlar & Platformlar
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -56,7 +56,7 @@ Yazılım dünyasında **6 yıldır** aktif olarak yer alıyorum ve bu sürenin 
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Statistics
 
 <div align="center">
   
@@ -80,7 +80,7 @@ Yazılım dünyasında **6 yıldır** aktif olarak yer alıyorum ve bu sürenin 
 
 ---
 
-## 📈 Aktivite Grafiği
+## 📈 Activity Graph
 
 <div align="center">
   
@@ -90,7 +90,7 @@ Yazılım dünyasında **6 yıldır** aktif olarak yer alıyorum ve bu sürenin 
 
 ---
 
-## 🎯 Yeteneklerim
+## 🎯 My Skills
 
 <table>
 <tr>
@@ -119,7 +119,7 @@ Yazılım dünyasında **6 yıldır** aktif olarak yer alıyorum ve bu sürenin 
 
 ---
 
-## 🌟 Öne Çıkan Projeler
+## 🌟 Featured Projects
 
 <div align="center">
 
@@ -130,7 +130,7 @@ Yazılım dünyasında **6 yıldır** aktif olarak yer alıyorum ve bu sürenin 
 
 ---
 
-## 📞 Benimle İletişime Geçin
+## 📞 Get In Touch
 
 <div align="center">
 
@@ -142,7 +142,7 @@ Yazılım dünyasında **6 yıldır** aktif olarak yer alıyorum ve bu sürenin 
 
 ---
 
-## 💭 Günlük Motivasyon
+## 💭 Daily Motivation
 
 <div align="center">
   
@@ -152,22 +152,22 @@ Yazılım dünyasında **6 yıldır** aktif olarak yer alıyorum ve bu sürenin 
 
 ---
 
-## ⚡ Eğlenceli Gerçekler
+## ⚡ Fun Facts
 
-- 🔥 **6 yıldır** kodlama yapıyorum
-- 💻 **JavaScript** benim tutkum
-- 🎯 **50+** proje tamamladım
-- 🌱 Sürekli yeni teknolojiler öğreniyorum
-- ☕ Kahve olmadan kod yazamam
-- 🎮 Boş zamanlarımda oyun oynuyorum
+- 🔥 I've been coding for **6 years**
+- 💻 **JavaScript** is my passion
+- 🎯 Completed **50+** projects
+- 🌱 Always learning new technologies
+- ☕ Can't code without coffee
+- 🎮 Gaming enthusiast in my free time
+- 🚀 Love creating innovative solutions
+- 🎨 Code architecture is my art
 
 ---
 
+## 📈 Contribution Graph
+
 <div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad."** 
-  
-  ⭐ Bu profilimi beğendiyseniz yıldızlamayı unutmayın!
   
   ![Snake animation](https://github.com/c17h19no3-ss/c17h19no3-ss/blob/output/github-contribution-grid-snake.svg)
 
@@ -175,10 +175,59 @@ Yazılım dünyasında **6 yıldır** aktif olarak yer alıyorum ve bu sürenin 
 
 ---
 
+## 🌐 Languages I Speak
+
+- 🇹🇷 **Turkish** (Native)
+- 🇺🇸 **English** (Fluent)
+- 💻 **JavaScript** (Fluent)
+- 🎨 **CSS** (Intermediate)
+- 🗄️ **SQL** (Intermediate)
+
+---
+
+## 🔥 Current Focus
+
+```javascript
+const currentGoals2024 = {
+    learning: [
+        "Advanced React Patterns",
+        "TypeScript Best Practices",
+        "Cloud Architecture",
+        "DevOps & CI/CD"
+    ],
+    building: [
+        "Full Stack Applications",
+        "Open Source Contributions",
+        "Personal Brand",
+        "Developer Community"
+    ],
+    improving: [
+        "Code Quality",
+        "System Design",
+        "Problem Solving",
+        "Team Collaboration"
+    ]
+};
+```
+
+---
+
 <div align="center">
   
-  Made with ❤️ by **Vehbi Taha Edis**
+  **"First, solve the problem. Then, write the code."** - *John Johnson*
+  
+  ⭐ Don't forget to star my repositories if you find them interesting!
   
   ![Visitor Count](https://profile-counter.glitch.me/c17h19no3-ss/count.svg)
+
+</div>
+
+---
+
+<div align="center">
+  
+  Made with ❤️ by **Vehbi Taha Edis** | **C17H19NO3-SS**
+  
+  *"Turning coffee into code since 2018"* ☕️→💻
 
 </div>
